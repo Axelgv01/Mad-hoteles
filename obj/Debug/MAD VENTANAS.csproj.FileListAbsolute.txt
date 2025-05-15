@@ -1,0 +1,149 @@
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\bin\Debug\MAD VENTANAS.exe.config
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\bin\Debug\MAD VENTANAS.exe
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\bin\Debug\MAD VENTANAS.pdb
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD VENTANAS.csproj.AssemblyReference.cache
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Form1.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Hoteles.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Properties.Resources.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD VENTANAS.csproj.GenerateResource.cache
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD VENTANAS.csproj.CoreCompileInputs.cache
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD VENTANAS.exe
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD VENTANAS.pdb
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Usuarios.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Administrador.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Operativo.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Check_In.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Check_Out.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Tipos_de_Habitacion.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Cancelaciones.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Eliminar_Reservacion.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Clientes.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Gestion_de_Clientes.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Gestion_de_Reservaciones.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Reporte_de_Ventas.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Historial_del_Cliente.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Reporte_de_Ocupacion_por_Hotel.resources
+C:\Users\axelg\source\repos\MAD VENTANAS\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Reservaciones.resources
+C:\Users\Eduardo\Desktop\MAD VENTANAS\obj\Debug\MAD VENTANAS.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\MAD VENTANAS\obj\Debug\MAD VENTANAS.exe
+C:\Users\Eduardo\Desktop\MAD VENTANAS\obj\Debug\MAD VENTANAS.pdb
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\MAD VENTANAS.exe.config
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\MAD VENTANAS.exe
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\MAD VENTANAS.pdb
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD VENTANAS.csproj.AssemblyReference.cache
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Administrador.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Cancelaciones.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Check_In.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Check_Out.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Clientes.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Eliminar_Reservacion.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Form1.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Gestion_de_Clientes.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Gestion_de_Reservaciones.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Historial_del_Cliente.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Hoteles.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Login.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Operativo.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Properties.Resources.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Reporte_de_Ocupacion_por_Hotel.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Reporte_de_Ventas.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Reservaciones.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Tipos_de_Habitacion.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Usuarios.resources
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD VENTANAS.csproj.GenerateResource.cache
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD VENTANAS.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD VENTANAS.exe
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD VENTANAS.pdb
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\BouncyCastle.Cryptography.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\Google.Protobuf.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\K4os.Compression.LZ4.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\K4os.Hash.xxHash.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\MySql.Data.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.Buffers.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.IO.Pipelines.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.Memory.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.Numerics.Vectors.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\ZstdSharp.dll
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\BouncyCastle.Cryptography.xml
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\Google.Protobuf.pdb
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\Google.Protobuf.xml
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\K4os.Compression.LZ4.xml
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\K4os.Hash.xxHash.xml
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\MySql.Data.xml
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.Buffers.xml
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.IO.Pipelines.xml
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.Memory.xml
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.Numerics.Vectors.xml
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\xampp\htdocs\MAD VENTANAS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\xampp\htdocs\MAD VENTANAS\obj\Debug\MAD VENT.41583CC2.Up2Date
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\MAD VENTANAS.exe.config
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\MAD VENTANAS.exe
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\MAD VENTANAS.pdb
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\Google.Protobuf.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\MySql.Data.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.Buffers.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.Memory.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\ZstdSharp.dll
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\Google.Protobuf.pdb
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\Google.Protobuf.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\MySql.Data.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.Buffers.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.Memory.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD VENTANAS.csproj.AssemblyReference.cache
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Administrador.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Cancelaciones.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Check_In.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Check_Out.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Eliminar_Reservacion.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Form1.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Gestion_de_Clientes.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Gestion_de_Reservaciones.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Historial_del_Cliente.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Hoteles.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Login.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Operativo.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Properties.Resources.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Reporte_de_Ocupacion_por_Hotel.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Reporte_de_Ventas.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Reservaciones.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Tipos_de_Habitacion.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Usuarios.resources
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD VENTANAS.csproj.GenerateResource.cache
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD VENTANAS.csproj.CoreCompileInputs.cache
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD VENT.41583CC2.Up2Date
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD VENTANAS.exe
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD VENTANAS.pdb
+C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Clientescs.resources
