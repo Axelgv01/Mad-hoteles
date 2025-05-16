@@ -8,7 +8,7 @@ namespace MAD_VENTANAS
     {
         // Cadena de conexión con SSL desactivado y timeout
         private readonly string connString =
-            "server=localhost;user id=root;password=2017042Axel;database=hoteles;SslMode=None;default command timeout=30;";
+            "server=localhost;user id=root;password=3d99025;database=hoteles;SslMode=None;default command timeout=30;";
 
         public Login()
         {

@@ -34,18 +34,18 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.txtCorreoElectronico = new System.Windows.Forms.TextBox();
+            this.txtContrasena = new System.Windows.Forms.TextBox();
+            this.txtNombreCompleto = new System.Windows.Forms.TextBox();
+            this.txtNumeroNomina = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.monthCalendar1 = new System.Windows.Forms.MonthCalendar();
+            this.dateTimePickerFechaNacimiento = new System.Windows.Forms.MonthCalendar();
             this.label7 = new System.Windows.Forms.Label();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.txtTelefonoCasa = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.txtTelefonoCelular = new System.Windows.Forms.TextBox();
+            this.btnCancelar = new System.Windows.Forms.Button();
+            this.btnGuardar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -67,6 +67,7 @@
             this.label2.Size = new System.Drawing.Size(136, 16);
             this.label2.TabIndex = 1;
             this.label2.Text = "Correo Electronico";
+           
             // 
             // label3
             // 
@@ -98,33 +99,34 @@
             this.label5.TabIndex = 4;
             this.label5.Text = "Numero de Nomina";
             // 
-            // textBox1
+            // txtCorreoElectronico
             // 
-            this.textBox1.Location = new System.Drawing.Point(491, 136);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(193, 20);
-            this.textBox1.TabIndex = 5;
+            this.txtCorreoElectronico.Location = new System.Drawing.Point(491, 136);
+            this.txtCorreoElectronico.Name = "txtCorreoElectronico";
+            this.txtCorreoElectronico.Size = new System.Drawing.Size(193, 20);
+            this.txtCorreoElectronico.TabIndex = 5;
+            
             // 
-            // textBox2
+            // txtContrasena
             // 
-            this.textBox2.Location = new System.Drawing.Point(491, 181);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(193, 20);
-            this.textBox2.TabIndex = 6;
+            this.txtContrasena.Location = new System.Drawing.Point(491, 181);
+            this.txtContrasena.Name = "txtContrasena";
+            this.txtContrasena.Size = new System.Drawing.Size(193, 20);
+            this.txtContrasena.TabIndex = 6;
             // 
-            // textBox3
+            // txtNombreCompleto
             // 
-            this.textBox3.Location = new System.Drawing.Point(491, 228);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(193, 20);
-            this.textBox3.TabIndex = 7;
+            this.txtNombreCompleto.Location = new System.Drawing.Point(491, 228);
+            this.txtNombreCompleto.Name = "txtNombreCompleto";
+            this.txtNombreCompleto.Size = new System.Drawing.Size(193, 20);
+            this.txtNombreCompleto.TabIndex = 7;
             // 
-            // textBox4
+            // txtNumeroNomina
             // 
-            this.textBox4.Location = new System.Drawing.Point(491, 275);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(193, 20);
-            this.textBox4.TabIndex = 8;
+            this.txtNumeroNomina.Location = new System.Drawing.Point(491, 275);
+            this.txtNumeroNomina.Name = "txtNumeroNomina";
+            this.txtNumeroNomina.Size = new System.Drawing.Size(193, 20);
+            this.txtNumeroNomina.TabIndex = 8;
             // 
             // label6
             // 
@@ -136,11 +138,11 @@
             this.label6.TabIndex = 9;
             this.label6.Text = "Fecha de Nacimiento";
             // 
-            // monthCalendar1
+            // dateTimePickerFechaNacimiento
             // 
-            this.monthCalendar1.Location = new System.Drawing.Point(516, 348);
-            this.monthCalendar1.Name = "monthCalendar1";
-            this.monthCalendar1.TabIndex = 10;
+            this.dateTimePickerFechaNacimiento.Location = new System.Drawing.Point(516, 348);
+            this.dateTimePickerFechaNacimiento.Name = "dateTimePickerFechaNacimiento";
+            this.dateTimePickerFechaNacimiento.TabIndex = 10;
             // 
             // label7
             // 
@@ -152,12 +154,12 @@
             this.label7.TabIndex = 11;
             this.label7.Text = "Telefono de Casa";
             // 
-            // textBox5
+            // txtTelefonoCasa
             // 
-            this.textBox5.Location = new System.Drawing.Point(1078, 400);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(193, 20);
-            this.textBox5.TabIndex = 12;
+            this.txtTelefonoCasa.Location = new System.Drawing.Point(1078, 400);
+            this.txtTelefonoCasa.Name = "txtTelefonoCasa";
+            this.txtTelefonoCasa.Size = new System.Drawing.Size(193, 20);
+            this.txtTelefonoCasa.TabIndex = 12;
             // 
             // label8
             // 
@@ -169,34 +171,34 @@
             this.label8.TabIndex = 13;
             this.label8.Text = "Telefono Celular";
             // 
-            // textBox6
+            // txtTelefonoCelular
             // 
-            this.textBox6.Location = new System.Drawing.Point(1078, 490);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(193, 20);
-            this.textBox6.TabIndex = 14;
+            this.txtTelefonoCelular.Location = new System.Drawing.Point(1078, 490);
+            this.txtTelefonoCelular.Name = "txtTelefonoCelular";
+            this.txtTelefonoCelular.Size = new System.Drawing.Size(193, 20);
+            this.txtTelefonoCelular.TabIndex = 14;
             // 
-            // button2
+            // btnCancelar
             // 
-            this.button2.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(893, 582);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(141, 47);
-            this.button2.TabIndex = 50;
-            this.button2.Text = "CANCELAR";
-            this.button2.UseVisualStyleBackColor = false;
+            this.btnCancelar.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.btnCancelar.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCancelar.Location = new System.Drawing.Point(893, 582);
+            this.btnCancelar.Name = "btnCancelar";
+            this.btnCancelar.Size = new System.Drawing.Size(141, 47);
+            this.btnCancelar.TabIndex = 50;
+            this.btnCancelar.Text = "CANCELAR";
+            this.btnCancelar.UseVisualStyleBackColor = false;
             // 
-            // button1
+            // btnGuardar
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(1101, 582);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(141, 47);
-            this.button1.TabIndex = 49;
-            this.button1.Text = "GUARDAR";
-            this.button1.UseVisualStyleBackColor = false;
+            this.btnGuardar.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.btnGuardar.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGuardar.Location = new System.Drawing.Point(1101, 582);
+            this.btnGuardar.Name = "btnGuardar";
+            this.btnGuardar.Size = new System.Drawing.Size(141, 47);
+            this.btnGuardar.TabIndex = 49;
+            this.btnGuardar.Text = "GUARDAR";
+            this.btnGuardar.UseVisualStyleBackColor = false;
             // 
             // Usuarios
             // 
@@ -204,18 +206,18 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(1571, 829);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox6);
+            this.Controls.Add(this.btnCancelar);
+            this.Controls.Add(this.btnGuardar);
+            this.Controls.Add(this.txtTelefonoCelular);
             this.Controls.Add(this.label8);
-            this.Controls.Add(this.textBox5);
+            this.Controls.Add(this.txtTelefonoCasa);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.monthCalendar1);
+            this.Controls.Add(this.dateTimePickerFechaNacimiento);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtNumeroNomina);
+            this.Controls.Add(this.txtNombreCompleto);
+            this.Controls.Add(this.txtContrasena);
+            this.Controls.Add(this.txtCorreoElectronico);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -236,17 +238,17 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox txtCorreoElectronico;
+        private System.Windows.Forms.TextBox txtContrasena;
+        private System.Windows.Forms.TextBox txtNombreCompleto;
+        private System.Windows.Forms.TextBox txtNumeroNomina;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.MonthCalendar monthCalendar1;
+        private System.Windows.Forms.MonthCalendar dateTimePickerFechaNacimiento;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox txtTelefonoCasa;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TextBox txtTelefonoCelular;
+        private System.Windows.Forms.Button btnCancelar;
+        private System.Windows.Forms.Button btnGuardar;
     }
 }

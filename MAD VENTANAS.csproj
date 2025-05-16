@@ -131,6 +131,7 @@
     <Compile Include="Clientescs.Designer.cs">
       <DependentUpon>Clientescs.cs</DependentUpon>
     </Compile>
+    <Compile Include="DbHelper.cs" />
     <Compile Include="Eliminar Reservacion.cs">
       <SubType>Form</SubType>
     </Compile>

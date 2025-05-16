@@ -147,3 +147,63 @@ C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD VENT.41583CC2.Up2Date
 C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD VENTANAS.exe
 C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD VENTANAS.pdb
 C:\Users\axelg\Downloads\MAD VENTANAS\obj\Debug\MAD_VENTANAS.Clientescs.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\MAD VENTANAS.exe.config
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\MAD VENTANAS.exe
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\MAD VENTANAS.pdb
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\Google.Protobuf.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\MySql.Data.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.Buffers.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.Memory.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\ZstdSharp.dll
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\Google.Protobuf.pdb
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\Google.Protobuf.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\MySql.Data.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.Buffers.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.Memory.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD VENTANAS.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Administrador.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Cancelaciones.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Check_In.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Check_Out.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Clientescs.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Eliminar_Reservacion.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Form1.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Gestion_de_Clientes.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Gestion_de_Reservaciones.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Historial_del_Cliente.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Hoteles.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Login.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Operativo.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Reporte_de_Ocupacion_por_Hotel.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Reporte_de_Ventas.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Reservaciones.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Tipos_de_Habitacion.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD_VENTANAS.Usuarios.resources
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD VENTANAS.csproj.GenerateResource.cache
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD VENTANAS.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD VENT.41583CC2.Up2Date
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD VENTANAS.exe
+C:\Users\Eduardo\Documents\Universidad\PROYECTO MAD EQUIPO\hoteles\Mad-hoteles\obj\Debug\MAD VENTANAS.pdb
